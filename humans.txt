@@ -13,6 +13,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+<<<<<<< HEAD
 
 Bui Phuong Lan
 
@@ -20,3 +21,7 @@ Hello DAo
 
 Hihi
 
+=======
+    
+Bui Phuong Lan
+>>>>>>> parent of 4bd2450... add file and edit human
